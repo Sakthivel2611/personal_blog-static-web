@@ -74,3 +74,9 @@ To deploy your updated content and dependencies to the IBM Cloud or your hosting
  # Testing After Deployment:
 
 After deploying the changes, visit your live website and test it to make sure the updates are working as expected.
+# URL for my personal travel blogs website 
+url for my site: https://my-travelblog.s3.ams03.cloud-object-storage.appdomain.cloud/home.html
+
+# GitHub link for my project file and code
+My Project Git Hub Repository link: 
+https://github.com/Sakthivel2611/my-travelblog-website.git
